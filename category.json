@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "category":"Family Packages"
+        
+    },
+    {
+        "id":2,
+        "category":"Honeymoon Packages"
+    },
+    {
+        "id":3,
+        "category":"Holiday Packages"
+    },
+    {
+        "id":4,
+        "category":"Holiday Themes"  
+    },
+    {
+        "id":5,
+        "category":"Hotels"
+    }
+]

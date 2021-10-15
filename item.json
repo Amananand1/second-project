@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "Destation":"Indian, International",
+        "category_id":1,
+        "Duration":"x",
+        "image":"#",
+         "info": " A family trip "
+      },
+      {
+        "id":2 ,
+        "Destation":"Indian, International",
+        "category_id":2,
+        "Duration":"x",
+        "image":"#",
+         "info": " A Couple trip "
+      },
+      {
+        "id": 3,
+        "Destation":"Indian, International",
+        "category_id":3,
+        "Duration":"x",
+        "image":"#",
+         "info": " A seasonal holiday "
+      },
+      {
+        "id": 4,
+        "Destation":"Indian, International",
+        "category_id":4,
+        "Duration":"x",
+        "image":"#",
+         "info": " Packages on their themes "
+      },
+      {
+        "id": 5,
+        "Destation":"Indian, International",
+        "category_id":5,
+        "Duration":"x",
+        "image":"#",
+         "info": "Hotels on their types "
+      },
+]
